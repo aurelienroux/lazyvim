@@ -5,5 +5,6 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 ## Install extra packages
 
+<!-- Enable fuzzy finder for NeoTree search -->
 - `brew install ripgrep`
 - `brew install fd`
